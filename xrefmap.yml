@@ -1230,15 +1230,15 @@ references:
   isSpec: "True"
   fullName: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveClosure
   nameWithType: AlgorithmExtensions.ComputeTransitiveClosure
-- uid: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveClosure``2(QuikGraph.BidirectionalGraph{``0,``1},System.Func{``0,``0,``1})
-  name: ComputeTransitiveClosure<TVertex, TEdge>(BidirectionalGraph<TVertex, TEdge>, Func<TVertex, TVertex, TEdge>)
-  href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_ComputeTransitiveClosure__2_QuikGraph_BidirectionalGraph___0___1__System_Func___0___0___1__
-  commentId: M:QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveClosure``2(QuikGraph.BidirectionalGraph{``0,``1},System.Func{``0,``0,``1})
-  name.vb: ComputeTransitiveClosure(Of TVertex, TEdge)(BidirectionalGraph(Of TVertex, TEdge), Func(Of TVertex, TVertex, TEdge))
-  fullName: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveClosure<TVertex, TEdge>(QuikGraph.BidirectionalGraph<TVertex, TEdge>, System.Func<TVertex, TVertex, TEdge>)
-  fullName.vb: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveClosure(Of TVertex, TEdge)(QuikGraph.BidirectionalGraph(Of TVertex, TEdge), System.Func(Of TVertex, TVertex, TEdge))
-  nameWithType: AlgorithmExtensions.ComputeTransitiveClosure<TVertex, TEdge>(BidirectionalGraph<TVertex, TEdge>, Func<TVertex, TVertex, TEdge>)
-  nameWithType.vb: AlgorithmExtensions.ComputeTransitiveClosure(Of TVertex, TEdge)(BidirectionalGraph(Of TVertex, TEdge), Func(Of TVertex, TVertex, TEdge))
+- uid: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveClosure``2(QuikGraph.IEdgeListGraph{``0,``1},System.Func{``0,``0,``1})
+  name: ComputeTransitiveClosure<TVertex, TEdge>(IEdgeListGraph<TVertex, TEdge>, Func<TVertex, TVertex, TEdge>)
+  href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_ComputeTransitiveClosure__2_QuikGraph_IEdgeListGraph___0___1__System_Func___0___0___1__
+  commentId: M:QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveClosure``2(QuikGraph.IEdgeListGraph{``0,``1},System.Func{``0,``0,``1})
+  name.vb: ComputeTransitiveClosure(Of TVertex, TEdge)(IEdgeListGraph(Of TVertex, TEdge), Func(Of TVertex, TVertex, TEdge))
+  fullName: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveClosure<TVertex, TEdge>(QuikGraph.IEdgeListGraph<TVertex, TEdge>, System.Func<TVertex, TVertex, TEdge>)
+  fullName.vb: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveClosure(Of TVertex, TEdge)(QuikGraph.IEdgeListGraph(Of TVertex, TEdge), System.Func(Of TVertex, TVertex, TEdge))
+  nameWithType: AlgorithmExtensions.ComputeTransitiveClosure<TVertex, TEdge>(IEdgeListGraph<TVertex, TEdge>, Func<TVertex, TVertex, TEdge>)
+  nameWithType.vb: AlgorithmExtensions.ComputeTransitiveClosure(Of TVertex, TEdge)(IEdgeListGraph(Of TVertex, TEdge), Func(Of TVertex, TVertex, TEdge))
 - uid: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveReduction*
   name: ComputeTransitiveReduction
   href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_ComputeTransitiveReduction_
@@ -1246,15 +1246,15 @@ references:
   isSpec: "True"
   fullName: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveReduction
   nameWithType: AlgorithmExtensions.ComputeTransitiveReduction
-- uid: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveReduction``2(QuikGraph.BidirectionalGraph{``0,``1})
-  name: ComputeTransitiveReduction<TVertex, TEdge>(BidirectionalGraph<TVertex, TEdge>)
-  href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_ComputeTransitiveReduction__2_QuikGraph_BidirectionalGraph___0___1__
-  commentId: M:QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveReduction``2(QuikGraph.BidirectionalGraph{``0,``1})
-  name.vb: ComputeTransitiveReduction(Of TVertex, TEdge)(BidirectionalGraph(Of TVertex, TEdge))
-  fullName: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveReduction<TVertex, TEdge>(QuikGraph.BidirectionalGraph<TVertex, TEdge>)
-  fullName.vb: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveReduction(Of TVertex, TEdge)(QuikGraph.BidirectionalGraph(Of TVertex, TEdge))
-  nameWithType: AlgorithmExtensions.ComputeTransitiveReduction<TVertex, TEdge>(BidirectionalGraph<TVertex, TEdge>)
-  nameWithType.vb: AlgorithmExtensions.ComputeTransitiveReduction(Of TVertex, TEdge)(BidirectionalGraph(Of TVertex, TEdge))
+- uid: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveReduction``2(QuikGraph.IEdgeListGraph{``0,``1})
+  name: ComputeTransitiveReduction<TVertex, TEdge>(IEdgeListGraph<TVertex, TEdge>)
+  href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_ComputeTransitiveReduction__2_QuikGraph_IEdgeListGraph___0___1__
+  commentId: M:QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveReduction``2(QuikGraph.IEdgeListGraph{``0,``1})
+  name.vb: ComputeTransitiveReduction(Of TVertex, TEdge)(IEdgeListGraph(Of TVertex, TEdge))
+  fullName: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveReduction<TVertex, TEdge>(QuikGraph.IEdgeListGraph<TVertex, TEdge>)
+  fullName.vb: QuikGraph.Algorithms.AlgorithmExtensions.ComputeTransitiveReduction(Of TVertex, TEdge)(QuikGraph.IEdgeListGraph(Of TVertex, TEdge))
+  nameWithType: AlgorithmExtensions.ComputeTransitiveReduction<TVertex, TEdge>(IEdgeListGraph<TVertex, TEdge>)
+  nameWithType.vb: AlgorithmExtensions.ComputeTransitiveReduction(Of TVertex, TEdge)(IEdgeListGraph(Of TVertex, TEdge))
 - uid: QuikGraph.Algorithms.AlgorithmExtensions.CondensateEdges*
   name: CondensateEdges
   href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_CondensateEdges_
@@ -12781,15 +12781,15 @@ references:
   fullName.vb: QuikGraph.Algorithms.TransitiveClosureAlgorithm(Of TVertex, TEdge)
   nameWithType: TransitiveClosureAlgorithm<TVertex, TEdge>
   nameWithType.vb: TransitiveClosureAlgorithm(Of TVertex, TEdge)
-- uid: QuikGraph.Algorithms.TransitiveClosureAlgorithm`2.#ctor(QuikGraph.BidirectionalGraph{`0,`1},System.Func{`0,`0,`1})
-  name: TransitiveClosureAlgorithm(BidirectionalGraph<TVertex, TEdge>, Func<TVertex, TVertex, TEdge>)
-  href: api/QuikGraph.Algorithms.TransitiveClosureAlgorithm-2.html#QuikGraph_Algorithms_TransitiveClosureAlgorithm_2__ctor_QuikGraph_BidirectionalGraph__0__1__System_Func__0__0__1__
-  commentId: M:QuikGraph.Algorithms.TransitiveClosureAlgorithm`2.#ctor(QuikGraph.BidirectionalGraph{`0,`1},System.Func{`0,`0,`1})
-  name.vb: TransitiveClosureAlgorithm(BidirectionalGraph(Of TVertex, TEdge), Func(Of TVertex, TVertex, TEdge))
-  fullName: QuikGraph.Algorithms.TransitiveClosureAlgorithm<TVertex, TEdge>.TransitiveClosureAlgorithm(QuikGraph.BidirectionalGraph<TVertex, TEdge>, System.Func<TVertex, TVertex, TEdge>)
-  fullName.vb: QuikGraph.Algorithms.TransitiveClosureAlgorithm(Of TVertex, TEdge).TransitiveClosureAlgorithm(QuikGraph.BidirectionalGraph(Of TVertex, TEdge), System.Func(Of TVertex, TVertex, TEdge))
-  nameWithType: TransitiveClosureAlgorithm<TVertex, TEdge>.TransitiveClosureAlgorithm(BidirectionalGraph<TVertex, TEdge>, Func<TVertex, TVertex, TEdge>)
-  nameWithType.vb: TransitiveClosureAlgorithm(Of TVertex, TEdge).TransitiveClosureAlgorithm(BidirectionalGraph(Of TVertex, TEdge), Func(Of TVertex, TVertex, TEdge))
+- uid: QuikGraph.Algorithms.TransitiveClosureAlgorithm`2.#ctor(QuikGraph.IEdgeListGraph{`0,`1},System.Func{`0,`0,`1})
+  name: TransitiveClosureAlgorithm(IEdgeListGraph<TVertex, TEdge>, Func<TVertex, TVertex, TEdge>)
+  href: api/QuikGraph.Algorithms.TransitiveClosureAlgorithm-2.html#QuikGraph_Algorithms_TransitiveClosureAlgorithm_2__ctor_QuikGraph_IEdgeListGraph__0__1__System_Func__0__0__1__
+  commentId: M:QuikGraph.Algorithms.TransitiveClosureAlgorithm`2.#ctor(QuikGraph.IEdgeListGraph{`0,`1},System.Func{`0,`0,`1})
+  name.vb: TransitiveClosureAlgorithm(IEdgeListGraph(Of TVertex, TEdge), Func(Of TVertex, TVertex, TEdge))
+  fullName: QuikGraph.Algorithms.TransitiveClosureAlgorithm<TVertex, TEdge>.TransitiveClosureAlgorithm(QuikGraph.IEdgeListGraph<TVertex, TEdge>, System.Func<TVertex, TVertex, TEdge>)
+  fullName.vb: QuikGraph.Algorithms.TransitiveClosureAlgorithm(Of TVertex, TEdge).TransitiveClosureAlgorithm(QuikGraph.IEdgeListGraph(Of TVertex, TEdge), System.Func(Of TVertex, TVertex, TEdge))
+  nameWithType: TransitiveClosureAlgorithm<TVertex, TEdge>.TransitiveClosureAlgorithm(IEdgeListGraph<TVertex, TEdge>, Func<TVertex, TVertex, TEdge>)
+  nameWithType.vb: TransitiveClosureAlgorithm(Of TVertex, TEdge).TransitiveClosureAlgorithm(IEdgeListGraph(Of TVertex, TEdge), Func(Of TVertex, TVertex, TEdge))
 - uid: QuikGraph.Algorithms.TransitiveClosureAlgorithm`2.#ctor*
   name: TransitiveClosureAlgorithm
   href: api/QuikGraph.Algorithms.TransitiveClosureAlgorithm-2.html#QuikGraph_Algorithms_TransitiveClosureAlgorithm_2__ctor_
@@ -12842,15 +12842,15 @@ references:
   fullName.vb: QuikGraph.Algorithms.TransitiveReductionAlgorithm(Of TVertex, TEdge)
   nameWithType: TransitiveReductionAlgorithm<TVertex, TEdge>
   nameWithType.vb: TransitiveReductionAlgorithm(Of TVertex, TEdge)
-- uid: QuikGraph.Algorithms.TransitiveReductionAlgorithm`2.#ctor(QuikGraph.BidirectionalGraph{`0,`1})
-  name: TransitiveReductionAlgorithm(BidirectionalGraph<TVertex, TEdge>)
-  href: api/QuikGraph.Algorithms.TransitiveReductionAlgorithm-2.html#QuikGraph_Algorithms_TransitiveReductionAlgorithm_2__ctor_QuikGraph_BidirectionalGraph__0__1__
-  commentId: M:QuikGraph.Algorithms.TransitiveReductionAlgorithm`2.#ctor(QuikGraph.BidirectionalGraph{`0,`1})
-  name.vb: TransitiveReductionAlgorithm(BidirectionalGraph(Of TVertex, TEdge))
-  fullName: QuikGraph.Algorithms.TransitiveReductionAlgorithm<TVertex, TEdge>.TransitiveReductionAlgorithm(QuikGraph.BidirectionalGraph<TVertex, TEdge>)
-  fullName.vb: QuikGraph.Algorithms.TransitiveReductionAlgorithm(Of TVertex, TEdge).TransitiveReductionAlgorithm(QuikGraph.BidirectionalGraph(Of TVertex, TEdge))
-  nameWithType: TransitiveReductionAlgorithm<TVertex, TEdge>.TransitiveReductionAlgorithm(BidirectionalGraph<TVertex, TEdge>)
-  nameWithType.vb: TransitiveReductionAlgorithm(Of TVertex, TEdge).TransitiveReductionAlgorithm(BidirectionalGraph(Of TVertex, TEdge))
+- uid: QuikGraph.Algorithms.TransitiveReductionAlgorithm`2.#ctor(QuikGraph.IEdgeListGraph{`0,`1})
+  name: TransitiveReductionAlgorithm(IEdgeListGraph<TVertex, TEdge>)
+  href: api/QuikGraph.Algorithms.TransitiveReductionAlgorithm-2.html#QuikGraph_Algorithms_TransitiveReductionAlgorithm_2__ctor_QuikGraph_IEdgeListGraph__0__1__
+  commentId: M:QuikGraph.Algorithms.TransitiveReductionAlgorithm`2.#ctor(QuikGraph.IEdgeListGraph{`0,`1})
+  name.vb: TransitiveReductionAlgorithm(IEdgeListGraph(Of TVertex, TEdge))
+  fullName: QuikGraph.Algorithms.TransitiveReductionAlgorithm<TVertex, TEdge>.TransitiveReductionAlgorithm(QuikGraph.IEdgeListGraph<TVertex, TEdge>)
+  fullName.vb: QuikGraph.Algorithms.TransitiveReductionAlgorithm(Of TVertex, TEdge).TransitiveReductionAlgorithm(QuikGraph.IEdgeListGraph(Of TVertex, TEdge))
+  nameWithType: TransitiveReductionAlgorithm<TVertex, TEdge>.TransitiveReductionAlgorithm(IEdgeListGraph<TVertex, TEdge>)
+  nameWithType.vb: TransitiveReductionAlgorithm(Of TVertex, TEdge).TransitiveReductionAlgorithm(IEdgeListGraph(Of TVertex, TEdge))
 - uid: QuikGraph.Algorithms.TransitiveReductionAlgorithm`2.#ctor*
   name: TransitiveReductionAlgorithm
   href: api/QuikGraph.Algorithms.TransitiveReductionAlgorithm-2.html#QuikGraph_Algorithms_TransitiveReductionAlgorithm_2__ctor_
