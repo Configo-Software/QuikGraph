@@ -1399,6 +1399,15 @@ references:
   fullName.vb: QuikGraph.Algorithms.AlgorithmExtensions.IsDirectedAcyclicGraph(Of TVertex, TEdge)(QuikGraph.IVertexListGraph(Of TVertex, TEdge))
   nameWithType: AlgorithmExtensions.IsDirectedAcyclicGraph<TVertex, TEdge>(IVertexListGraph<TVertex, TEdge>)
   nameWithType.vb: AlgorithmExtensions.IsDirectedAcyclicGraph(Of TVertex, TEdge)(IVertexListGraph(Of TVertex, TEdge))
+- uid: QuikGraph.Algorithms.AlgorithmExtensions.IsDirectedAcyclicGraph``2(System.Collections.Generic.IEnumerable{``1})
+  name: IsDirectedAcyclicGraph<TVertex, TEdge>(IEnumerable<TEdge>)
+  href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_IsDirectedAcyclicGraph__2_System_Collections_Generic_IEnumerable___1__
+  commentId: M:QuikGraph.Algorithms.AlgorithmExtensions.IsDirectedAcyclicGraph``2(System.Collections.Generic.IEnumerable{``1})
+  name.vb: IsDirectedAcyclicGraph(Of TVertex, TEdge)(IEnumerable(Of TEdge))
+  fullName: QuikGraph.Algorithms.AlgorithmExtensions.IsDirectedAcyclicGraph<TVertex, TEdge>(System.Collections.Generic.IEnumerable<TEdge>)
+  fullName.vb: QuikGraph.Algorithms.AlgorithmExtensions.IsDirectedAcyclicGraph(Of TVertex, TEdge)(System.Collections.Generic.IEnumerable(Of TEdge))
+  nameWithType: AlgorithmExtensions.IsDirectedAcyclicGraph<TVertex, TEdge>(IEnumerable<TEdge>)
+  nameWithType.vb: AlgorithmExtensions.IsDirectedAcyclicGraph(Of TVertex, TEdge)(IEnumerable(Of TEdge))
 - uid: QuikGraph.Algorithms.AlgorithmExtensions.IsolatedVertices*
   name: IsolatedVertices
   href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_IsolatedVertices_
@@ -1415,6 +1424,31 @@ references:
   fullName.vb: QuikGraph.Algorithms.AlgorithmExtensions.IsolatedVertices(Of TVertex, TEdge)(QuikGraph.IBidirectionalGraph(Of TVertex, TEdge))
   nameWithType: AlgorithmExtensions.IsolatedVertices<TVertex, TEdge>(IBidirectionalGraph<TVertex, TEdge>)
   nameWithType.vb: AlgorithmExtensions.IsolatedVertices(Of TVertex, TEdge)(IBidirectionalGraph(Of TVertex, TEdge))
+- uid: QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph*
+  name: IsUndirectedAcyclicGraph
+  href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_IsUndirectedAcyclicGraph_
+  commentId: Overload:QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph
+  isSpec: "True"
+  fullName: QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph
+  nameWithType: AlgorithmExtensions.IsUndirectedAcyclicGraph
+- uid: QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph``2(QuikGraph.IUndirectedGraph{``0,``1})
+  name: IsUndirectedAcyclicGraph<TVertex, TEdge>(IUndirectedGraph<TVertex, TEdge>)
+  href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_IsUndirectedAcyclicGraph__2_QuikGraph_IUndirectedGraph___0___1__
+  commentId: M:QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph``2(QuikGraph.IUndirectedGraph{``0,``1})
+  name.vb: IsUndirectedAcyclicGraph(Of TVertex, TEdge)(IUndirectedGraph(Of TVertex, TEdge))
+  fullName: QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph<TVertex, TEdge>(QuikGraph.IUndirectedGraph<TVertex, TEdge>)
+  fullName.vb: QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph(Of TVertex, TEdge)(QuikGraph.IUndirectedGraph(Of TVertex, TEdge))
+  nameWithType: AlgorithmExtensions.IsUndirectedAcyclicGraph<TVertex, TEdge>(IUndirectedGraph<TVertex, TEdge>)
+  nameWithType.vb: AlgorithmExtensions.IsUndirectedAcyclicGraph(Of TVertex, TEdge)(IUndirectedGraph(Of TVertex, TEdge))
+- uid: QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph``2(System.Collections.Generic.IEnumerable{``1})
+  name: IsUndirectedAcyclicGraph<TVertex, TEdge>(IEnumerable<TEdge>)
+  href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_IsUndirectedAcyclicGraph__2_System_Collections_Generic_IEnumerable___1__
+  commentId: M:QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph``2(System.Collections.Generic.IEnumerable{``1})
+  name.vb: IsUndirectedAcyclicGraph(Of TVertex, TEdge)(IEnumerable(Of TEdge))
+  fullName: QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph<TVertex, TEdge>(System.Collections.Generic.IEnumerable<TEdge>)
+  fullName.vb: QuikGraph.Algorithms.AlgorithmExtensions.IsUndirectedAcyclicGraph(Of TVertex, TEdge)(System.Collections.Generic.IEnumerable(Of TEdge))
+  nameWithType: AlgorithmExtensions.IsUndirectedAcyclicGraph<TVertex, TEdge>(IEnumerable<TEdge>)
+  nameWithType.vb: AlgorithmExtensions.IsUndirectedAcyclicGraph(Of TVertex, TEdge)(IEnumerable(Of TEdge))
 - uid: QuikGraph.Algorithms.AlgorithmExtensions.MaximumFlow*
   name: MaximumFlow
   href: api/QuikGraph.Algorithms.AlgorithmExtensions.html#QuikGraph_Algorithms_AlgorithmExtensions_MaximumFlow_

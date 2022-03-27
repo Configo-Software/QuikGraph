@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Algorithms.AlgorithmExtensions.html",
-          "hash": "FXc8LGSZlE9WEX9w3fxkX/utsoHhtzi0Eazm6LIEaMI="
+          "hash": "KZj0tpDMWQf6IiS9oT17Pqv9cAuTDQQIOEGvtmbKkTQ="
         }
       },
       "is_incremental": false,
@@ -1425,7 +1425,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Algorithms.ShortestPath.YenShortestPathsAlgorithm-1.SortedPath.html",
-          "hash": "NgfXfcHgS32Oaa/l5AdX4q7xj543lqUiSDCO7GzBsr4="
+          "hash": "it65Qapz/7s4fEx0D5QBPvZly/eWVNlCUyI3FMOWttE="
         }
       },
       "is_incremental": false,
@@ -1689,7 +1689,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.ArrayUndirectedGraph-2.html",
-          "hash": "MduJTjYofDzWlun2X1lCq3C/toC1dn0MeA9EmuHIw0g="
+          "hash": "0Yjjclnyu9e97kARhIwjLtYASa4h0s1tPYXBLOYpqL0="
         }
       },
       "is_incremental": false,
@@ -1749,7 +1749,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.BinaryHeap-2.html",
-          "hash": "tN5p84Bw6EZ4pscO0ylRv6g5CSV9w/1JU60HpH84oOM="
+          "hash": "su8wPt2sThM9kCu2OwAPFEB64wMPnOKyZdIjeMJbHos="
         }
       },
       "is_incremental": false,
@@ -1773,7 +1773,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.EdgeEdgeDictionary-2.html",
-          "hash": "NL1H8FXMBqzhDtpitwG5p/aC+MHwO8r+jda3Zv84m3U="
+          "hash": "EIfQiZ/SJtkw/mCJVU/zG/Qq9uyfX9JiE2UrgPi1jd0="
         }
       },
       "is_incremental": false,
@@ -1785,7 +1785,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.EdgeList-2.html",
-          "hash": "27j53zEVTx0Nd9plmyalvDYLIr9tCxMnimY/Hcvu6X4="
+          "hash": "vkGtpm56MWtaI2EDekmN8rWw00+0J1Wcea1q/Px19dQ="
         }
       },
       "is_incremental": false,
@@ -1797,7 +1797,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.FibonacciHeap-2.html",
-          "hash": "BvMw+Y2mLBJPDtHuCU387zMftqtAfNlvihYyMl8Hbcc="
+          "hash": "LO9lhC7x7c5nhRmfuIyWSh+h2+XiThYuYtp5GRdSSuY="
         }
       },
       "is_incremental": false,
@@ -1821,7 +1821,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.FibonacciHeapLinkedList-2.html",
-          "hash": "0AgvCq7Zv/CP14tFk/XnbQu+mdAFaPBN/GnJPQLWO54="
+          "hash": "cp0P5vieZjkZhyTQfWZtYjALZPOFbLzznulDNSnRJeE="
         }
       },
       "is_incremental": false,
@@ -1881,7 +1881,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.IEdgeList-2.html",
-          "hash": "7q9VIxTs5ur4yy/8KzcEuhMfC1mespnaWnOmgaP0xs8="
+          "hash": "vJFri9g8R8ZEsI5UQEvlaqKNn4OAitc4RikGh6adCIA="
         }
       },
       "is_incremental": false,
@@ -1917,7 +1917,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.IVertexEdgeDictionary-2.html",
-          "hash": "zIZ9TGcf66oTUI+BNaA6FHlGstNwpZTQVdXBZqat2uk="
+          "hash": "fID89gSI/sPhKpwts8oh3wbbDoiZzCStUVwBvYwEJss="
         }
       },
       "is_incremental": false,
@@ -1929,7 +1929,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.Queue-1.html",
-          "hash": "zYro3JjANhWcaNo/VS8UTx5MYf9QOcQhMnZZ8I3PrCI="
+          "hash": "urhbMFtJx4tE0ROGLrrIrcM1itXx0PCzzPIGR20nKfE="
         }
       },
       "is_incremental": false,
@@ -1941,7 +1941,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.SoftHeap-2.html",
-          "hash": "FgUBzq6OBHkmVwuXtgCESG+gtBs/g5YOoAKUTPhoA9o="
+          "hash": "jrONdmMc1Yb6p/VJmnC5Or1lBHhjNqrpMi0P+0PtYnU="
         }
       },
       "is_incremental": false,
@@ -1953,7 +1953,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.VertexEdgeDictionary-2.html",
-          "hash": "psUPlQtYOD5Tv+i8GHqoLpXZfylDuDRRzU2cjuiW8bY="
+          "hash": "ihXhRcmZR/tyrv08hK3qTKk/8D43z7rQ2HNBCDRow1g="
         }
       },
       "is_incremental": false,
@@ -1965,7 +1965,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Collections.VertexList-1.html",
-          "hash": "8e3JqPvQrfLGL+hjy4bhksbXtSWQsLAF6LFuIGHy4z4="
+          "hash": "M+bYW646C+uSpLXyC4RR08sdI7/kdGCcHbMtLMCe+yA="
         }
       },
       "is_incremental": false,
@@ -2145,7 +2145,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.DelegateUndirectedGraph-2.html",
-          "hash": "1WobOYfA7YqagZduMYr0qAihJXvM9ujQZA/TZL3RiZ8="
+          "hash": "4nzUKN5Ob0JNyvzM3Jrxw0351S0ZSoJXMdeS8z/I1JM="
         }
       },
       "is_incremental": false,
@@ -2241,7 +2241,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.EdgeExtensions.html",
-          "hash": "Bb9yRlD7YqQfsJ09m0sNGQl3IQK68g92PIn4x1rqCWU="
+          "hash": "ZXDVK8jHkQ5f4XKY1YFyGDCXNllXDMF34BxbhfVZ8f4="
         }
       },
       "is_incremental": false,
@@ -2601,7 +2601,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Graphviz.Dot.GraphvizLayerCollection.html",
-          "hash": "6VebCKcb/F3qYZpDZcaWIEQ7qfKd6iULSsiqobUrzqI="
+          "hash": "fMTlQpfhReOkIjRDX7nQqkuT/6sGH4hqPbCqFkR480w="
         }
       },
       "is_incremental": false,
@@ -2697,7 +2697,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Graphviz.Dot.GraphvizRecordCellCollection.html",
-          "hash": "EZwye9Wf6Vi22k0JbvHdUV04dCFnKMdWo3PP2lR147c="
+          "hash": "+Y4xD8L35p/jbPOOyBfyZVGzFmKtPAlMhp9iIU5R548="
         }
       },
       "is_incremental": false,
@@ -3201,7 +3201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.IMutableUndirectedGraph-2.html",
-          "hash": "oFIt3RbnHrK+dyupAcctSHRjEPH+UAorMXO2rzm/NBo="
+          "hash": "k5GP/nQ9BEBoFnZUU9NxlKhH0PW9CY5r9p/zn2ScYr4="
         }
       },
       "is_incremental": false,
@@ -3309,7 +3309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.IUndirectedGraph-2.html",
-          "hash": "uqRAFjuf1vXIChLyzda3VH7WGEsE/ZbYxvjP7134+SM="
+          "hash": "iNUN3eYPIOOW6e53LEUeSML6RKmyxL8NVwFOnCM4WAw="
         }
       },
       "is_incremental": false,
@@ -3837,7 +3837,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Predicates.FilteredUndirectedGraph-3.html",
-          "hash": "1cIds+UeMYCv740c9AJZVW57GlmUitdF0/skzJkzV6A="
+          "hash": "6g9dj6HQNNzOxq6dNQIR7e5kXoEEu21U5O14IXJz/Jw="
         }
       },
       "is_incremental": false,
@@ -4485,7 +4485,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Serialization.XmlSerializableGraph-3.XmlEdgeList.html",
-          "hash": "CcT+HyRZHpSbOkEIj4XNwIQ0U+XaaplHkXZ2LPXmpEs="
+          "hash": "nNtngRetYVQig5ySxb2N5R7QSA9RfkYWhSK7Sgi3Ieo="
         }
       },
       "is_incremental": false,
@@ -4497,7 +4497,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.Serialization.XmlSerializableGraph-3.XmlVertexList.html",
-          "hash": "rZ0QxjVXjXB1xpD5h0nMlZlT9FCeNP8pZUmy3A+d2ok="
+          "hash": "dTmwXNrfU412w1OqgRSTrhFEw8hL6TS3mNHzHSFhqNk="
         }
       },
       "is_incremental": false,
@@ -4629,7 +4629,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.UndirectedBidirectionalGraph-2.html",
-          "hash": "lmncJM4KeKyNwBm2lzqP+qDFZi4Eqaz1QWRLOleuwRE="
+          "hash": "OMXh3V+vm13jX1ORtHulKmX421ssJLBc4ZV+adGNnXM="
         }
       },
       "is_incremental": false,
@@ -4677,7 +4677,7 @@
       "output": {
         ".html": {
           "relative_path": "api/QuikGraph.UndirectedGraph-2.html",
-          "hash": "58e2w8NDVi4JtiqWG0wtlF1vKjs4huP4ke2OKAWDM/k="
+          "hash": "LNzgrqxD07ls8X6ESVKzIYHNuIPztxF2lVa+aAEHKko="
         }
       },
       "is_incremental": false,
